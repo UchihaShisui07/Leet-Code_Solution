@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0621-task-scheduler](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0621-task-scheduler) |
 ## Hash Table
 |  |
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0621-task-scheduler) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->

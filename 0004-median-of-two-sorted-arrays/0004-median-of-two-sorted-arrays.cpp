@@ -9,6 +9,5 @@ public:
             return(merger[n/2-1]+merger[n/2])/2.0;  
     }else{
         return merger[n/2];
-    }
-    }
+    }   }
 };

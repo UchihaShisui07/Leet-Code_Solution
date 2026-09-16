@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/1903-largest-odd-number-in-string) |
 | [3870-count-commas-in-range](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/3870-count-commas-in-range) |
 ## Array
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0621-task-scheduler) |
+| [1903-largest-odd-number-in-string](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0239-sliding-window-maximum) |
+## String
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->

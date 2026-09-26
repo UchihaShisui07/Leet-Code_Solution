@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/1903-largest-odd-number-in-string) |
 | [3870-count-commas-in-range](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/3870-count-commas-in-range) |
 ## Array
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0283-move-zeroes) |
 | [0621-task-scheduler](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0621-task-scheduler) |
 ## Hash Table
@@ -20,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0268-missing-number) |
 | [0621-task-scheduler](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0621-task-scheduler) |
 ## Greedy
 |  |
@@ -30,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0268-missing-number) |
 | [0621-task-scheduler](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0621-task-scheduler) |
 ## Heap (Priority Queue)
 |  |
@@ -44,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -73,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0283-move-zeroes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

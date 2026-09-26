@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0283-move-zeroes) |
 | [0621-task-scheduler](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0621-task-scheduler) |
 ## Hash Table
 |  |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/1903-largest-odd-number-in-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->

@@ -77,9 +77,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0283-move-zeroes](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0268-missing-number) |
+## Linked List
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 <!---LeetCode Topics End-->

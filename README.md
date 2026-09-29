@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0485-max-consecutive-ones) |
 | [0621-task-scheduler](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0621-task-scheduler) |
 ## Hash Table
 |  |

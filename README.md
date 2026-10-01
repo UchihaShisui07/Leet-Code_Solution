@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0485-max-consecutive-ones) |
+| [0506-relative-ranks](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0621-task-scheduler) |
 ## Hash Table
 |  |
@@ -36,11 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0268-missing-number) |
+| [0506-relative-ranks](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0621-task-scheduler) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0239-sliding-window-maximum) |
+| [0506-relative-ranks](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/UchihaShisui07/Leet-Code_Solution/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
